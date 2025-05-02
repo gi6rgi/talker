@@ -1,0 +1,16 @@
+[project]
+name = "talker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipython>=9.1.0",
+    "librosa>=0.11.0",
+    "matplotlib>=3.10.1",
+    "mediapipe>=0.10.21",
+    "numpy>=1.26.4",
+    "opencv-python>=4.11.0.86",
+    "sounddevice>=0.5.1",
+]
